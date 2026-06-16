@@ -29,7 +29,7 @@ The **Campus Guard** is a context-aware mobile application built with **Flutter*
 ### **1. Entry Point**
 The application starts with a unified Welcome Screen where users select their specific role to access their respective authenticated dashboards.
 
-![Welcome Dashboard](Users\Armaghan\OneDrive\Desktop\6th Smester\MAD project\screenshots)
+![Welcome Dashboard](screenshots/welcome_screen.png)
 
 ---
 
