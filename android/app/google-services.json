@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001599892978",
+    "project_id": "campusguard-ad73f",
+    "storage_bucket": "campusguard-ad73f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001599892978:android:748e94b4f180dc87ec7f6b",
+        "android_client_info": {
+          "package_name": "com.example.campus_guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001599892978-4uonsm3cf94h657gb1vde00vp8tpci9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campus_guard",
+            "certificate_hash": "8342e64e2acffb50a4776714e2bdd93350d6deed"
+          }
+        },
+        {
+          "client_id": "1001599892978-4rd3bdepehps5cnv2pve7peg2idu19bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdipgAw-GbomjdSia7xUKvPZuUqLBNZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001599892978-4rd3bdepehps5cnv2pve7peg2idu19bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
